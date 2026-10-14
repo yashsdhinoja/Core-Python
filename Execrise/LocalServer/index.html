@@ -1,0 +1,11 @@
+-- Advanced DBMS - sample file (replace with your own PDF / SQL / notes)
+CREATE TABLE student (
+    enrollment_no VARCHAR(12) PRIMARY KEY,
+    name          VARCHAR(80) NOT NULL,
+    semester      INT
+);
+
+SELECT semester, COUNT(*) AS total_students
+FROM student
+GROUP BY semester
+ORDER BY semester;

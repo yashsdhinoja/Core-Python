@@ -1,0 +1,3 @@
+# The server itself needs NO outside packages.
+# This one is optional: it only draws a QR code in the terminal.
+qrcode>=7.4
