@@ -1,10 +1,8 @@
 def arithmetic_opertion_all(a,b):
     a = a + b
-    b = a - b
-    a = a * b
-    b = a / b
+    b = a // b
     a = a // b
-    b = a % b
+    
     return a, b
 
 a = int(input("Enter the a Value : "))
