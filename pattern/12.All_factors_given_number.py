@@ -9,3 +9,4 @@ def all_factors_given_number(num):
 
 number = int(input("Enter the Number : "))
 all_factors_given_number(number)
+
