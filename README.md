@@ -29,12 +29,12 @@
 
 To run this project locally, clone the repository and navigate into the folder:
 
-```bash
+bash
 # Clone the repository
 git clone [https://github.com/yashsdhinoja/Core-Python.git](https://github.com/yashsdhinoja/Core-Python.git)
-```
 
-```bash
+
+bash
 # Navigate into the project folder
 cd Core-Python
 
@@ -49,7 +49,7 @@ GitHub supports standard Markdown tables, which you can use to compare your proj
 | **Open Source** | ❌ Proprietary | ⚠️ Limited | ✅ **MIT / GNU** |
 | **Setup Speed** | ⚠️ Complex | ⚠️ Complex | ✅ **1 Minute** |
 | **Interface** | 💻 Terminal-only | 💻 CLI | ✅ **Clean Modern UI** |
-```
+
 
 ## ⭐ Star History
 
