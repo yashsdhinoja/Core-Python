@@ -12,6 +12,5 @@ root.title("Tkinter_GUI")
 # set window title
 root.geometry("400x300")
 
-
 # display window and wait for any events
 root.mainloop()
