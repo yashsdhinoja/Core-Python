@@ -37,12 +37,11 @@ git clone [https://github.com/yashsdhinoja/Core-Python.git](https://github.com/y
 ```bash
 # Navigate into the project folder
 cd Core-Python
-```
+
 ### 4. Comparison Tables
 GitHub supports standard Markdown tables, which you can use to compare your project with others or display structured features:
 
----
-```markdown
+
 ## 📊 Feature Comparison
 
 | Feature | Competitor A | Competitor B | Your Project |
