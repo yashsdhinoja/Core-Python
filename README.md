@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://www.wallpaperalchemy.com/python/wallpapers" alt="Core Python" width="100%">
+  <img src="python-programming-language-cyberpunk-4k-wallpaper-card.webp" alt="Core Python" width="100%">
 
   <br><br>
 
