@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://via.placeholder.com/900x400.png?text=Core+Python+Banner" alt="Project Banner" width="100%">
+  <img src="https://www.wallpaperalchemy.com/python/wallpapers" alt="Core Python" width="100%">
 
   <br><br>
 
