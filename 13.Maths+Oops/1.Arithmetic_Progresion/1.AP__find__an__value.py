@@ -1,4 +1,5 @@
 # create a AP (Arithmetic Progression) of nth term formula => [an = a + (n - 1) d].
+# Use this when you have the first term, the position, and the common difference: an = a + (n - 1)d
 
 # class
 class Arithmetic_Progression:
@@ -7,7 +8,7 @@ class Arithmetic_Progression:
         self.n = n
         self.d = d
 
-    # method
+# method
     def find__an(self):
         an = self.a + (self.n - 1) * self.d
         return an

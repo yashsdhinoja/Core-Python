@@ -1,12 +1,14 @@
 # create a AP (Arithmetic Progression) of nth term formula => [an = a + (n - 1) d].
 # to find the n value formaula => [ ((an - ai) / d) + 1 ]
 
+# class
 class Arithmetic_Progression__Find__n:
     def __init__(self, a, n, d):
         self.a = a
         self.n = n
         self.d = d
 
+    # method
     def n_th_term(self):
         if self.n is None:
             return "Please provide 'n' to find the n-th term."
