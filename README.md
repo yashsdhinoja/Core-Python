@@ -252,7 +252,7 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for details.
 
 <a href="https://github.com/yashsdhinoja/Core-Python/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=yashsdhinoja/Core-Python" alt="Contributors"/>
-  <img src="https://contrib.rocks/image?repo=sweceducation" alt="Contributors"/>
+  <img src="https://contrib.rocks/image?repo=sweceducation/swecwebsite" alt="Contributors"/>
 </a>
 
 ---
